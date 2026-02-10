@@ -78,6 +78,7 @@ This repository is intended for:
 ---
 
 ## Repository Structure
+'''
 docs/
  ├─ 01-overview.md
  ├─ 02-network.md
@@ -85,6 +86,6 @@ docs/
  ├─ 04-ci-cd.md
  ├─ 05-registry.md
  └─ 06-multi-env.md
-
+'''
 ## Status
 This repository is continuously evolving.
